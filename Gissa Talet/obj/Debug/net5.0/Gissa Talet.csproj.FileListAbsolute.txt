@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Gissa Talet\bin\Debug\net5.0\Gissa Talet.exe
+C:\Users\Admin\Desktop\Gissa Talet\bin\Debug\net5.0\Gissa Talet.deps.json
+C:\Users\Admin\Desktop\Gissa Talet\bin\Debug\net5.0\Gissa Talet.runtimeconfig.json
+C:\Users\Admin\Desktop\Gissa Talet\bin\Debug\net5.0\Gissa Talet.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Gissa Talet\bin\Debug\net5.0\Gissa Talet.dll
+C:\Users\Admin\Desktop\Gissa Talet\bin\Debug\net5.0\ref\Gissa Talet.dll
+C:\Users\Admin\Desktop\Gissa Talet\bin\Debug\net5.0\Gissa Talet.pdb
+C:\Users\Admin\Desktop\Gissa Talet\obj\Debug\net5.0\Gissa Talet.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Gissa Talet\obj\Debug\net5.0\Gissa Talet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Gissa Talet\obj\Debug\net5.0\Gissa Talet.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Gissa Talet\obj\Debug\net5.0\Gissa Talet.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Gissa Talet\obj\Debug\net5.0\Gissa Talet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Gissa Talet\obj\Debug\net5.0\Gissa Talet.dll
+C:\Users\Admin\Desktop\Gissa Talet\obj\Debug\net5.0\ref\Gissa Talet.dll
+C:\Users\Admin\Desktop\Gissa Talet\obj\Debug\net5.0\Gissa Talet.pdb
+C:\Users\Admin\Desktop\Gissa Talet\obj\Debug\net5.0\Gissa Talet.genruntimeconfig.cache
